@@ -62,7 +62,7 @@ The goal of the project is to improve waste management efficiency, reduce manual
 
 ## System Architecture
 
-
+```text
 Waste Input
       │
       ▼
@@ -82,13 +82,13 @@ Servo Actuation
       │
       ▼
 Sorted Waste Bin
-``
+```
 
---
+---
 
 ## Repository Structure
 
-text
+```text
 .
 ├── ai/
 ├── cad/
@@ -99,9 +99,9 @@ text
 ├── raspberry_pi/
 ├── README.md
 └── LICENSE
-``
+```
 
---
+---
 
 ## Project Highlights
 
@@ -131,4 +131,3 @@ text
 ## License
 
 This project is licensed under the MIT License.
-
